@@ -6,5 +6,6 @@ A simple react application to find movies, series and episodes. I have used the 
 
 Run Project:-
 
-npm install
-npm start
+1.npm install
+
+2.npm start
